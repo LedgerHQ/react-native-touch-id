@@ -9,7 +9,7 @@ import {
   NativeModules
 } from 'react-native';
 
-import TouchID from "react-native-touch-id";
+import TouchID from "@ledgerhq/react-native-touch-id";
 
 export default class App extends Component<{}> {
   constructor() {
